@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         txtDate = (EditText) findViewById(R.id.editText2);
     }
 
+    //November 30
    public void  DateOfBirth()
    {
        // Get Current Date
